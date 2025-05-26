@@ -42,3 +42,7 @@ app.*.map.json
 /android/app/debug
 /android/app/profile
 /android/app/release
+
+# ignoring large files bc github doesn't like large files
+# Ignore all mp4 files
+*.mp4
